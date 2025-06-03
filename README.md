@@ -1,7 +1,12 @@
 ## Hi there 👋
-
+- 🙋‍♂️My name is Emmanuel Velasco
+- 💻I am a third year computer science and engineering student at UC Merced
+- 🧠I'm currently working with SURI under UC LEADS
+- ⚙️I'm currently learning neural networks in control systems
+- ❓How to reach me: velasco.emmanuel12@gmail.com
+- ⭐Here is my current CV
 <!--
-**velastco/velastco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+velastco/velastco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
