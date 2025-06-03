@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🙋‍♂️My name is Emmanuel Velasco
-- 💻I am a third year computer science and engineering student at UC Merced
+- 💻I am a 3rd year Computer Science and Engineering student at UC Merced
 - 🧠I'm currently working with SURI under UC LEADS
 - ⚙️I'm currently learning neural networks in control systems
 - ❓How to reach me: velasco.emmanuel12@gmail.com
